@@ -1,13 +1,13 @@
 <?php
-$name = "Odunuga Daniel";
+$fullName = "Odunuga Daniel";
 $id = "HNG-02440";
 
 
-$Email = "kelvind684@gmail.com";
+$email = "kelvind684@gmail.com";
 
 $language = "PHP";
 
 
-$result = "Hello World this is $name my HNGi7 id is $id using $language for stage 2 task $Email";
+$output = "Hello World, this is $fullName with HNGi7 ID $id using $language for stage 2 task.$email";;
 
-echo $result;
+echo $output;
