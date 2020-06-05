@@ -1,3 +1,7 @@
 <?php
-echo('Hello World this is Odunuga Daniel with HNG-02440 using PHP for stage 2 task');
+$name = "Odunuga Daniel";
+$id = " HNG-02440";
+$Email = "kelvind684@gmail.com";
+$language = "PHP";
+echo('Hello World this is $name HNGi7 $id using $language for stage 2 task');
 ?>
