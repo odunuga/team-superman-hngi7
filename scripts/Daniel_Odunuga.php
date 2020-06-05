@@ -10,5 +10,5 @@ echo $result;
 
 echo ("$name");
 echo ("$id");
-echo("$Email")
+echo("$Email");
 ?>
