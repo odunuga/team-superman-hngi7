@@ -7,4 +7,8 @@ $language = "PHP";
 $result = "Hello World this is $name, my HNGi7 id is $id using $language for stage 2 task.$Email";
 
 echo $result;
+
+function daniel(){
+    echo ("$name $language $Email $id");
+}
 ?>
