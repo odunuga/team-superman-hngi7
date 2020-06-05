@@ -9,6 +9,6 @@ $result = "Hello World this is $name, my HNGi7 id is $id using $language for sta
 echo $result;
 
 function daniel(){
-    echo ("$name $language $Email $id");
+    echo ("$name $Email $id");
 }
 ?>
